@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rebeccapurple;
+}
+main{
+    
+    border: solid 10px cornflowerblue;
+}
+.lanches{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+img{
+    width: 22vw;
+    height: 22vh;
+
+}
